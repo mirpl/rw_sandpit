@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class Setup {
 
     @Test
-    public static void setupPage() {
+    public void setupPage() {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--window-size=1400,600");
         options.addArguments("--no-sandbox");
