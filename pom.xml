@@ -7,7 +7,7 @@
     <groupId>ai.makeitright</groupId>
     <artifactId>rw_sandpit</artifactId>
     <version>1.0.0</version>
-    <name>rw_sandpit</name>
+    <name>z_rw_sandpit</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
